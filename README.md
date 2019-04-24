@@ -67,14 +67,14 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Date | Day | Topic | Reading | Assignment |
 |------|-----|-------|---------|------------|
 | Apr  1 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) |  |
-| Apr  3 | W | Abstract/intro/conclusion | [Slides](slides/IntroAbsConcl_slides.pdf) |  |
+| Apr  3 | W | Abstract/intro/conclusion | [Slides](Slides/IntroAbsConcl_slides.pdf) |  |
 | Apr  8 | M | Theory section of paper | [Slides](Slides/TheorySection_slides.pdf) |  |
 | Apr 10 | W | Proposal presentations |  | [Proposal slides & present](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/project-proposal.md) |
-| Apr 15 | M | Data/methods section of paper | Slides |  |
-| Apr 17 | W | Computational results section of paper | Slides |  |
-| Apr 22 | M | Kernel density estimation | Notes | PS1 |
-| Apr 24 | W | Parallel computing | Notes |  |
-| Apr 29 | M | Parallel computing | Notes | Literature review section |
+| Apr 15 | M | Data/methods section of paper | [Slides](Slides/DataSection_slides.pdf) |  |
+| Apr 17 | W | Computational results section of paper | [Slides](Slides/ResultsSection_slides.pdf) |  |
+| Apr 22 | M | Kernel density estimation | [Notebk](Notebooks/KDE/KDE.ipynb) | [PS1](Assignments/PS1/PS1.pdf) |
+| Apr 24 | W | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) |  |
+| Apr 29 | M | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
 | May  1 | W | Workshop papers/office visits |  |  |
 | May  6 | M | Dynamic programming with interpolation | Notes | PS2 |
 | May  8 | W | Dynamic programming with interpolation |       |     |

@@ -1,6 +1,6 @@
 # MACS 30250 - Perspectives on Computational Research in Economics (Spring 2019)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TA: [Zunda (Winston) Xu)](https://github.com/zundaxu) |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TA: [Zunda (Winston) Xu](https://github.com/zundaxu) |
 |--------------|--------------------------------------------------------------|----------------------------------------------------|
 | Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |                    |
@@ -77,7 +77,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 29 | M |  |  | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
 | May  1 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
 | May  6 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
-| May  8 | W | Dynamic programming with interpolation | Notes | PS2 |
+| May  8 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | PS2 |
 | May 13 | M | Dynamic programming with interpolation |  |  |
 | May 15 | W | Overlapping generations models | Notes | PS3 |
 | May 20 | M | Overlapping generations models |  |  |
